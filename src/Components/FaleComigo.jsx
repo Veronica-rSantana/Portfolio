@@ -20,16 +20,16 @@ export default function FaleComigo (){
                     </div>
                 </div>
                 <div className="formulario">
-                    <form>           
+                    <form action="https://formsubmit.co/veronica_rsantana@hotmail.com" method="POST">           
                             <div className="form-group">
                                 <h2>Fale Comigo</h2>
                                 <label for="staticNome" class="col-sm-2 col-form-label row">Nome</label>
-                                <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="Seu nome e sobrenome"/>
+                                <input type="text" name="nome"class="form-control" id="exampleFormControlInput1" placeholder="Seu nome e sobrenome"/>
                                 <label for="staticEmail" class="col-sm-2 col-form-label row">Email</label>
-                                <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="Seu e-mail"/>            
+                                <input type="email" name="email" class="form-control" id="exampleFormControlInput1" placeholder="Seu e-mail"/>            
                                 <label for="staticEmail" class="col-sm-2 col-form-label row">Assunto</label>
-                                <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Deixe aqui sua mensagem..."></textarea>
-                                <button type="button" class="btn btn-outline botao" href="https://outlook.live.com/mail/0/">Enviar</button>
+                                <textarea  name="assunto"class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Deixe aqui sua mensagem..."></textarea>
+                                <button type="submit" class="btn btn-outline botao">Enviar</button>
                             </div>    
                     </form> 
                 </div> 
