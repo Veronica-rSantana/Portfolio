@@ -1,0 +1,15 @@
+.segundo{
+    margin-bottom: 25px;
+}
+.textoh2{
+    margin: 15px;
+    color: #50665e;
+}
+.visitar{
+    flex-direction: row;
+    background-color: #50665e;
+    width: 150px;
+    
+    text-align: center;
+    color:aliceblue;
+}

@@ -1,0 +1,61 @@
+.Cards{
+    width: 80%;
+    height: auto;
+    margin-bottom: 30px;
+    
+}
+.Container{
+    justify-content: center;
+    display: flex;
+
+}
+
+.card{
+    padding: 10px;
+    margin: 15px;
+    background-color: #c1cac7;
+    width:50px;
+    position: center;
+}
+.eventos h2{
+    color:#50665e;
+    margin-left: 10px;
+}
+.experiencia h2{
+    color:#50665e;
+    margin-left: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.expfoto{
+    width: 200px;
+    margin: 15px;
+}
+.media{
+    margin-top: 15px;
+    display: flex;
+    flex-direction: row;
+    
+}
+.fabesb{
+    margin-top: 15px;
+    margin-bottom: 30px;
+    background-color: #c1cac7;
+    padding: 10px;
+    
+}
+.subway{
+    margin-top: 15px;
+    padding: 10px;
+}
+.recode{
+    margin-top: 15px;
+    background-color: #c1cac7;
+    padding:10px ;
+}
+.text{
+    text-align:center ;
+    justify-content: center;
+    margin: 40px;
+    color: #50665e;
+}

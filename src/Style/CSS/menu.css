@@ -1,0 +1,48 @@
+.topo{
+background-color: #C0D6CE;
+color: azure;
+height: 100px;
+
+}
+.social{
+    margin-right: 60px;
+}
+.rd{
+    color: #50665e;
+}
+.nav-link{
+    color: #50665e;
+    text-decoration: aliceblue;
+    font-size: 20px;
+}
+
+
+
+/*--Footer--*/
+.footer{
+    width: 100%;
+    height: auto;
+    background-color:#C0D6CE;
+    display: flex;
+    flex-direction: column;
+}
+.frase{
+   text-align: center; 
+   padding: 30px;
+   size: 20px;
+   color: azure;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.botoes{
+display: flex;
+justify-content: space-around;
+padding: 10px;
+}
+.botoes h3{
+    color: #50665e;
+}
+
+.icones a{
+margin: 0px 10px;
+}

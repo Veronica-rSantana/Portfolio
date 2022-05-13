@@ -1,0 +1,51 @@
+.resumo{
+    display: flex;
+}
+.sobremim{
+    display:inline;
+    text-align: justify;
+    margin-top: 100px;
+    margin-left: 50px;
+    margin-right: 290px;
+    color: #50665e;
+    font-size: 20px;
+   
+}
+.full{
+    margin-left: 160px;
+}
+.texto-home{
+    margin-left: 50px;
+}
+.sobremim h1{
+font-size: 60px;
+color:#50665e ;
+font-family: honey florist;
+}
+.imagem-lateral{
+    width: 500px;
+    height: 100%;   
+}
+.dev-skills{
+    margin-top: 60px;
+}
+.skills{
+    margin-top: 100px;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-block-end: 15px; 
+    align-items: center;
+    display: flex;   
+}
+.hab1{
+    width: 100px;
+}
+.nome-hab{
+    margin-top: 15px;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-block-end: 15px; 
+    align-items: center;
+    display: flex;   
+    
+}

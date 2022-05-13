@@ -1,0 +1,58 @@
+
+.social-links{
+  padding-block-end: 15px;
+  margin-top: 100px;
+  align-items: center;
+  display: inline-block;       
+}
+.social-links a{
+    margin: 0px 10px;
+}
+
+.formulario{
+  display: flex; 
+ display: inline-block;
+ margin-top: 20px;
+ margin-right: 50px;
+ 
+}
+.contato{
+   margin-top: 150px; 
+   margin-right: 150px;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+.redes{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-image: url('/public/Imagens/cantinho.png');
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: right;
+    height: 950px;  
+    
+}
+
+.redes h1{
+    color: #50665e;
+    margin-top: 50px;   
+}
+
+.form-group h2{
+    text-align: center;
+    color: #c1cac7;
+}
+
+.form-group{
+    width: 300px;
+    height: 100%;
+    margin-top: 180px;
+    color: #c1cac7;
+}
+.botao{
+    color:#50665e;
+    margin-top: 5px;
+    display: flex;
+}
