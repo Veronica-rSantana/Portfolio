@@ -14,35 +14,7 @@ height: 100px;
     color: #50665e;
     text-decoration: aliceblue;
     font-size: 20px;
+    font-family: 'Noto Serif Display', serif;
 }
 
 
-
-/*--Footer--*/
-.footer{
-    width: 100%;
-    height: auto;
-    background-color:#C0D6CE;
-    display: flex;
-    flex-direction: column;
-}
-.frase{
-   text-align: center; 
-   padding: 30px;
-   size: 20px;
-   color: azure;
-   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
-
-.botoes{
-display: flex;
-justify-content: space-around;
-padding: 10px;
-}
-.botoes h3{
-    color: #50665e;
-}
-
-.icones a{
-margin: 0px 10px;
-}

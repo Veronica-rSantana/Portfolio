@@ -22,6 +22,8 @@
    display: flex;
    flex-direction: column;
    align-items: center;
+   font-family: 'Noto Serif Display', serif;
+
 }
 .redes{
     display: flex;
@@ -43,6 +45,7 @@
 .form-group h2{
     text-align: center;
     color: #c1cac7;
+    font-family: 'Noto Serif Display', serif;
 }
 
 .form-group{
@@ -51,8 +54,21 @@
     margin-top: 180px;
     color: #c1cac7;
 }
-.botao{
+.botao {
     color:#50665e;
     margin-top: 5px;
     display: flex;
+    text-align: center;
+    font-family: 'Noto Serif Display', serif;
+}
+button{
+    
+    background-color: #1197cc;
+    box-shadow: #094c66 4px 4px 0px;
+    border-radius: 8px;
+    transition: transform 200ms, box-shadow 200ms;
+}
+button:active{
+transform: translateY(4px) translateX(4px);
+box-shadow: #094c66 0px 0px 0px;
 }

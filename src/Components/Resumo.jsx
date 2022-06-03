@@ -7,29 +7,37 @@ export default function Resumo(){
         <>
         <div className="resumo">          
             <section className="sobremim">       
-                <div>
+                <div className="titulo">
                     <h1>Verônica Santana</h1>
                     <p className="full">Desenvolvedora Full Stack jr.</p>
                     <h2>Olá,</h2>
                     <p className="texto-home">
-                    Seja bem vindo ao meu protifólio, aqui você verá um pouco de toda minha trajetória tenho 28 anos,
-                    técnica em administração em transição de carreira, agora desenvolvedora full stack.Conheci essa profissão através
+                    Seja bem vindo(a) ao meu portfólio, aqui você verá um pouco da minha trajetória e se conectar comigo.
+                    <br/>Tenho 29 anos,
+                    técnica em administração em transição de carreira, agora Desenvolvedora full stack.Conheci essa profissão através
                     do processo seletivo da Recode Pro,Moro sozinha, porém com minha mãe, tenho o Ralf que é  um dog muito bagunceiro
                     e brincalhão.  </p>
                 </div>
             <div>
                 <h3 className="dev-skills"><strong>Skills Desenvolvidas</strong></h3>
             </div>
-                <div className="skills">  
-                    <img className="hab1" src="../Imagens/equipe.png" alt="" />       
-                    <img className="hab1" src="../Imagens/comunicacao.png" alt="" />         
-                    <img className="hab1" src="../Imagens/organizacao.png" alt="" />                    
+                <div className="skills">
+                    <div> 
+                    <img className="hab1" src="../Imagens/equipe.png" alt="" />
+                    <p>Trabalho em equipe</p>
+                    </div>  
+                     
+                    <div>    
+                    <img className="hab1" src="../Imagens/comunicacao.png" alt="" />
+                    <p>Comunicação</p> 
+                    </div>
+
+                    <div >        
+                    <img className="hab1" src="../Imagens/organizacao.png" alt="" /> 
+                    <p>Liderança</p>                     
+                    </div>
                 </div>
-                <div className="nome-hab">
-                    <p>Trabalho em equipe</p> 
-                    <p>Comunicação</p>  
-                    <p>Liderança</p>   
-                </div>
+                
             </section>
             <section>            
                     <img src="../Imagens/bannerHome.png" className="imagem-lateral" alt="perfil" />        

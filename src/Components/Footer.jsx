@@ -1,19 +1,18 @@
 import React from "react";
-import '../Style/CSS/menu.css';
+import '../Style/CSS/footer.css';
 
 
 export default function Footer (){
     return(
         <>
-        <div className="footer">
+        <div className="conteiner-fluid footer">
             <div className="frase">
                 <h2>Trabalhar em equipe para mim é uma<br></br> explosão de conhecimentos...</h2>
             </div>
             <div className="botoes">
-                <div>
+                <div className="calenbly">
                   
-                    <a href="https://calendly.com/veronica_rsantana"><h3>Agende aqui nossa entrevista!</h3></a>
-                    
+                <button type="button" className="btn"><a href="https://calendly.com/veronica_rsantana">Agende aqui nossa entrevista!</a></button>                  
                     
                 </div> 
                 <div className="icones">
@@ -24,8 +23,7 @@ export default function Footer (){
                     <a href="https://github.com/Veronica-rSantana"><img src="../Imagens/github.png" alt="GitHub"/>
                     </a>
                     <a href=" https://wa.me/5571994020237"><img src="../Imagens/whatsapp.png" alt="WhatsApp"/></a>
-                </div>
-                
+                </div>              
             </div>          
         </div>
      </>

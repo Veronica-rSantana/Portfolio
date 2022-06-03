@@ -9,6 +9,7 @@
     margin-right: 290px;
     color: #50665e;
     font-size: 20px;
+    font-family: 'Noto Serif Display', serif;
    
 }
 .full{
@@ -16,18 +17,26 @@
 }
 .texto-home{
     margin-left: 50px;
+    font-family: 'Noto Serif Display', sans-serif;
+   
+    
 }
 .sobremim h1{
-font-size: 60px;
+font-size: 80px;
 color:#50665e ;
-font-family: honey florist;
+font-family: 'Noto Serif Display', serif;
+
+
 }
 .imagem-lateral{
     width: 500px;
-    height: 100%;   
+    height: auto;
+  
+    
 }
 .dev-skills{
-    margin-top: 60px;
+    margin-top: 50px;
+    font-family: 'Noto Serif Display', serif;
 }
 .skills{
     margin-top: 100px;
@@ -36,16 +45,36 @@ font-family: honey florist;
     padding-block-end: 15px; 
     align-items: center;
     display: flex;   
+    font-family: 'Noto Serif Display', serif;
 }
 .hab1{
     width: 100px;
-}
-.nome-hab{
     margin-top: 15px;
     flex-direction: row;
     justify-content: space-around;
     padding-block-end: 15px; 
     align-items: center;
-    display: flex;   
+    font-family: 'Noto Serif Display', serif;
+
     
+    
+}
+
+
+/*-----------------------------------------Media query ----------------------------------------------------*/
+@media (min-width: 360px) and (max-width:576px){
+    .resumo {
+        text-align: center;
+        margin-top: 5px;
+    }
+    .full{
+        text-align: center;
+    }
+   
+    .hab1{
+        flex-wrap: wrap;
+        justify-content: center;
+        display: flex;
+    }
+   
 }

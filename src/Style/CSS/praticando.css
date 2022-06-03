@@ -3,13 +3,25 @@
 }
 .textoh2{
     margin: 15px;
-    color: #50665e;
+    color: aliceblue;
+    background-color: #64806d	;
+    text-align: center;
+    font-family: 'Noto Serif Display', serif;
 }
 .visitar{
     flex-direction: row;
-    background-color: #50665e;
     width: 150px;
-    
+    font-size: 20px;
     text-align: center;
     color:aliceblue;
+    font-family: 'Noto Serif Display', serif;
+}
+button{
+    box-shadow: #094c66 4px 4px 0px;
+    border-radius: 8px;
+    transition: transform 200ms, box-shadow 200ms;
+}
+button:active{
+transform: translateY(4px) translateX(4px);
+box-shadow: #094c66 0px 0px 0px;
 }

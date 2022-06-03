@@ -20,12 +20,14 @@
 .eventos h2{
     color:#50665e;
     margin-left: 10px;
+    font-family: 'Noto Serif Display', serif;
 }
 .experiencia h2{
     color:#50665e;
     margin-left: 15px;
     margin-top: 30px;
     margin-bottom: 30px;
+    font-family: 'Noto Serif Display', serif;
 }
 .expfoto{
     width: 200px;
@@ -42,20 +44,29 @@
     margin-bottom: 30px;
     background-color: #c1cac7;
     padding: 10px;
+    font-family: 'Crimson Text', serif;
     
 }
 .subway{
     margin-top: 15px;
     padding: 10px;
+    font-family: 'Crimson Text', serif;
 }
 .recode{
     margin-top: 15px;
     background-color: #c1cac7;
     padding:10px ;
+    font-family: 'Crimson Text', serif;
 }
 .text{
     text-align:center ;
     justify-content: center;
     margin: 40px;
     color: #50665e;
+    font-family: 'Noto Serif Display', serif;
+}
+.mudo{
+    color: rgb(221, 27, 69);
+    text-align: center;
+    font-family: 'Noto Serif Display', serif;
 }

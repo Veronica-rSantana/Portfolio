@@ -48,44 +48,44 @@ export default function Eventos(){
                 <div className="Cards">
                     <section className="eventos">
                         <h2> Eventos</h2>
-                        <div class="card-group">                                   
-                            <div class="card">
-                                <img class="card-img-top" src="../Imagens/feira.jpg" alt="Feira-de-Artes"/>
-                                <div class="card-body">
-                                    <h5 class="card-title">Feira das Artes e Empreendimentos da Diversidade - 2017.</h5>
-                                    <p class="card-text">A Feira buscou fomentar a criação de um ambiente favorável para geração de oportunidades de negócios,
+                        <div className="card-group">                                   
+                            <div className="card">
+                                <img className="card-img-top" src="../Imagens/Feira.jpg" alt="Feira-de-Artes"/>
+                                <div className="card-body">
+                                    <h5 className="card-title">Feira das Artes e Empreendimentos da Diversidade - 2017.</h5>
+                                    <p className="card-text">A Feira buscou fomentar a criação de um ambiente favorável para geração de oportunidades de negócios,
                                                         através da troca de conhecimentos, inovação, difusão de conceitos e tecnologias; além de estimular o surgimento,
                                                         a ampliação e a diversificação de empreendimentos sustentáveis e difundir marcas, 
                                                         produtos e serviços que têm a diversidade como mola propulsora dos seus trabalhos.</p>
                                 </div>
-                                <div class="card-footer">
-                                    <small class="text-muted">Auxílio na divulgação e recepção de convidados.</small>
+                                <div className="card-footer">
+                                    <small className="text-muted mudo">Auxílio na divulgação e recepção de convidados.</small>
                                 </div>
                             </div>
 
-                            <div class="card">
-                                <img class="card-img-top" src="../Imagens/roberto-santos.jpg" alt="roberto-santos"/>
-                                <div class="card-body">
-                                <h5 class="card-title">Prêmio Roberto Santos de Mérito Científico - 2018.</h5>
-                                <p class="card-text">Criado em 2015, o Prêmio Roberto Santos de Mérito Científico tem o objetivo de reconhecer o trabalho 
+                            <div className="card">
+                                <img className="card-img-top" src="../Imagens/roberto-santos.jpg" alt="roberto-santos"/>
+                                <div className="card-body">
+                                <h5 className="card-title">Prêmio Roberto Santos de Mérito Científico - 2018.</h5>
+                                <p className="card-text">Criado em 2015, o Prêmio Roberto Santos de Mérito Científico tem o objetivo de reconhecer o trabalho 
                                                     de excelência realizado pelos pesquisadores que contribuem para o desenvolvimento e estímulo ao exercício de
                                                     pesquisas científicas na Bahia.</p>
                                 </div>
-                                <div class="card-footer">
-                                <small class="text-muted">Nessa participação fui reconhecida por excelência e comprometimento.</small>
+                                <div className="card-footer">
+                                <small className="text-muted mudo">Nessa participação fui reconhecida por excelência e comprometimento.</small>
                                 </div>
                             </div>
                             
-                            <div class="card">
-                                <img class="card-img-top" src="../Imagens/dom-pedro.jpeg" alt="Casaldáliga"/>
-                                <div class="card-body">
-                                <h5 class="card-title">Lançamento da Biografia de Pedro CasalDáliga - 2019.</h5>
-                                <p class="card-text">O evento foi promovido pela comissão e pelo Grupo Tortura Nunca Mais,
+                            <div className="card">
+                                <img className="card-img-top" src="../Imagens/dom-pedro.jpeg" alt="Casaldáliga"/>
+                                <div className="card-body">
+                                <h5 className="card-title">Lançamento da Biografia de Pedro CasalDáliga - 2019.</h5>
+                                <p className="card-text">O evento foi promovido pela comissão e pelo Grupo Tortura Nunca Mais,
                                                     a Associação de Advogados e Advogadas Pela Democracia, Justiça e Cidadania (ADJC) 
                                                     e a Associação Brasileira de Juristas pela Democracia (ABJD).</p>
                                 </div>
-                                <div class="card-footer">
-                                <small class="text-muted">Staff na venda de livros.</small>
+                                <div className="card-footer">
+                                <small className="text-muted mudo">Staff na venda de livros.</small>
                                 </div>
                             </div>
                         </div>

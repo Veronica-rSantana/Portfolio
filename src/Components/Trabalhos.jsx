@@ -4,7 +4,7 @@ import '../Style/CSS/praticando.css';
 export default function Trabalhos(){
     return(
         <>
-        <h2 className="textoh2">Hora da Prática...</h2>
+        <h1 className="textoh2">Hora da Prática...</h1>
         <div className="container">
             <h2 className="textoh2">Aplicação Web</h2>
                 <div class="card-group">
@@ -40,7 +40,7 @@ export default function Trabalhos(){
                                                 Mobile: <br/>
                                                 React Native
                             </p>
-                        <a className="visitar" href=" https://empodelas-site.herokuapp.com/">CONHEÇA MAIS...</a>
+                            <button type="button" class="btn btn-secondary"><a className="visitar" href=" https://empodelas-site.herokuapp.com/">Visite o site</a></button>
                         </div>
                     </div>
                     <div class="card">
