@@ -29,10 +29,14 @@ font-family: 'Noto Serif Display', serif;
 
 }
 .imagem-lateral{
-    width: 500px;
-    height: auto;
+    width: 650px;
+    height: 100%;
   
     
+}
+.tec{
+    margin-bottom: 20px;
+    padding: 20px;
 }
 .dev-skills{
     margin-top: 50px;

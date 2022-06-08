@@ -65,8 +65,14 @@
     color: #50665e;
     font-family: 'Noto Serif Display', serif;
 }
+.card-footer{
+    background-color: rgb(255, 254, 251);;
+}
 .mudo{
-    color: rgb(221, 27, 69);
+    color: rgb(255, 254, 251);
     text-align: center;
     font-family: 'Noto Serif Display', serif;
+    font-size: large;
+    
+    
 }

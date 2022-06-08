@@ -21,6 +21,8 @@ export default function Trabalhos(){
                                                 Back-end:<br/>
                                                 Java Spring Boot<br/>
                                                 Postgres.
+                                                <br/>
+                                                <button type="button" class="btn btn-secondary"><a className="visitar" href=" https://empodelas-site.herokuapp.com/">Disponível no Github</a></button>
                             </p>
                         </div>
                     </div>
@@ -44,13 +46,15 @@ export default function Trabalhos(){
                         </div>
                     </div>
                     <div class="card">
-                        <img class="card-img-top" src="../Imagens/praticando.png" alt="Imagem de capa do card"/>
+                        <img class="card-img-top" src="../Imagens/praticando.png" alt="Full-stack-Eletro"/>
                         <div class="card-body">
                         <h5 class="card-title">Full Stack Eletro</h5>
                             <p class="card-text">Esta foi a primeira aplicação web desenvolvida como atividade prática,usando:<br/>
                                                 <br/> Html<br/>
                                                 CSS<br/>
                                                 Bootstrap 
+                                                <br/>
+                                                <button type="button" class="btn btn-secondary"><a className="visitar" href="https://github.com/Veronica-rSantana/FULL-STACK-ELETRO.git">Disponível no Github</a></button>
                             </p>
                         </div>
                     </div>                                       
@@ -64,13 +68,14 @@ export default function Trabalhos(){
                         </div>
                     </div>
                     <div class="card">
-                        <img class="card-img-top" src="../Imagens/praticando.png" alt="Imagem de capa do card"/>
+                        <img class="card-img-top" src="../Imagens/App-agencia-video.mp4" alt="Imagem de capa do card"/>
                         <div class="card-body">
                         <h5 class="card-title">CONTINUA...</h5>
                              <p class="card-text">Em breve trago novidades!</p>                        
                         </div>
                     </div>
                     <div class="card">
+                
                         <img class="card-img-top" src="../Imagens/praticando.png" alt="Imagem de capa do card"/>
                         <div class="card-body">
                         <h5 class="card-title">CONTINUA...</h5>
@@ -83,21 +88,23 @@ export default function Trabalhos(){
                     <div class="card-group segundo">
                         <div class="card">
                             <img class="card-img-top" src="../Imagens/Logo-Carol-Cutrim.png" alt="Imagem de capa do card"/>
-                            <div class="card-body">                                              
+                            <div class="card-body"> 
+                            <h5 class="card-title">Nail Designer</h5>
+                            <p class="card-text">Logo feita para cliente.</p>                                              
                             </div>
                         </div>
                     <div class="card">
                         <img class="card-img-top" src="../Imagens/Logo-empodelas.png" alt="Imagem de capa do card"/>
                          <div class="card-body">
-                             <h5 class="card-title">CONTINUA...</h5>
-                            <p class="card-text">Em breve trago novidades!</p>                        
+                             <h5 class="card-title">Empodelas...</h5>
+                            <p class="card-text">Logo feita para projeto em squad.</p>                        
                          </div>
                     </div>
                         <div class="card">
                             <img class="card-img-top" src="../Imagens/logo1.png" alt="Imagem de capa do card"/>
                             <div class="card-body">
-                                <h5 class="card-title">CONTINUA...</h5>
-                                <p class="card-text">Em breve trago novidades!</p>
+                                <h5 class="card-title">Agência de Viagens</h5>
+                                <p class="card-text">Logo criada para atividade individual.</p>
                             </div>
                         </div>                                       
                     </div> 

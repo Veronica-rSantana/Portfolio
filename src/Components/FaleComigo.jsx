@@ -7,7 +7,13 @@ export default function FaleComigo (){
             <div className="redes">
                 <div className="contato">
                     <div className="conect">
-                        <h1>Conecte-se as minhas redes!</h1>
+                        <p className="texto-contato">
+                        Sabemos que as redes sociais além de compartilhar nossa rotina<br/>
+                        nos traz possibilidades de nos conectar com pessoas de todo o mundo.<br/>
+                        Pensando nessa amplitude, podem ser portas de entrada para a realização<br/> 
+                        de sonhos,então, nossa conecxão é muito importante.
+                        </p>
+                        <h1>Conecte-se comigo e vamos<br/> compartilhar histórias!</h1>
                         </div>
                     <div class="social-links ">
                         
