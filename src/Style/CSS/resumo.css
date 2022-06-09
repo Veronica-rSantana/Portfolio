@@ -37,11 +37,14 @@ font-family: 'Noto Serif Display', serif;
 .tec{
     margin-top: 5px; 
     margin-bottom: 0px; 
-    margin-left: 50px;
+    margin-left: 120px;
     padding: 20px;
 }
+.tec-dev{
+    text-align: center;
+}
 .dev-skills{
-    margin-top: 20px;
+    margin-top: 30px;
     margin-bottom: 0px;
     align-items: center;
     margin-left: 50px;

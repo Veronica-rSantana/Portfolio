@@ -44,10 +44,10 @@ export default function Resumo(){
                     <p>Liderança</p>                     
                     </div>
                 </div>
-                <div className="tec">
-                    <h3 className="dev-skills"><strong>Algumas das Tecnologias Abordadas</strong></h3>
+                <div className="dev-skills">
+                    <h3 className="tec-dev"><strong>Algumas das Tecnologias Abordadas</strong></h3>
                     <br/>
-                    <img src="../Imagens/reactjs.png" alt="logo-react" />
+                    <img className="tec" src="../Imagens/reactjs.png" alt="logo-react" />
                     <img src="../Imagens/c-sharp.png" alt="c-sharp" /> 
                     <img src="../Imagens/css-3.png" alt="css" /> 
                     <img src="../Imagens/html-5.png" alt="html" /> 
