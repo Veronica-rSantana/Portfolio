@@ -36,6 +36,11 @@ export default function FaleComigo (){
                                 <label for="staticEmail" className="col-sm-2 col-form-label row">Assunto</label>
                                 <textarea  name="assunto"className="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Deixe aqui sua mensagem..."></textarea>
                                 <button type="submit" className="btn btn-outline botao">Enviar</button>
+                                <script>
+                                    var opc;
+                                    opc=confirm("Mensagem enviada com sucesso!");
+                                    document.write(opc);
+                                </script>
                             </div>    
                     </form> 
                 </div> 

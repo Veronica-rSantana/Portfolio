@@ -29,21 +29,27 @@ font-family: 'Noto Serif Display', serif;
 
 }
 .imagem-lateral{
-    width: 650px;
-    height: 100%;
+    width: 550px;
+    height: auto;
   
     
 }
 .tec{
-    margin-bottom: 20px;
+    margin-top: 5px; 
+    margin-bottom: 0px; 
+    margin-left: 50px;
     padding: 20px;
 }
 .dev-skills{
-    margin-top: 50px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    align-items: center;
+    margin-left: 50px;
     font-family: 'Noto Serif Display', serif;
 }
 .skills{
-    margin-top: 100px;
+    margin-top: 10px;
+    
     flex-direction: row;
     justify-content: space-around;
     padding-block-end: 15px; 
@@ -54,6 +60,7 @@ font-family: 'Noto Serif Display', serif;
 .hab1{
     width: 100px;
     margin-top: 15px;
+    margin-bottom: 5px;
     flex-direction: row;
     justify-content: space-around;
     padding-block-end: 15px; 
